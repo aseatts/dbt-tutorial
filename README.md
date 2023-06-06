@@ -1,1 +1,1 @@
-# DBT_TESTDEMO
+# dbt-tutorial
